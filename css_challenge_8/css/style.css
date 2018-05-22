@@ -1,0 +1,77 @@
+/*sale ribbon*/
+.ribbon{
+    position: absolute;
+    border: 3px solid green;
+    border-width: thin;
+    width: 250px;
+    transform: rotate(45deg);
+    text-align: center;
+    margin-top: 20px;
+    top: 10px;
+    left: 560px;
+    padding: 5px;
+    background-color: crimson;
+    z-index: 1;    
+}
+
+
+/*banner*/
+.banner{
+    position: relative;
+    border: 10px solid;
+    border-color: dimgrey;
+    border-radius: 6px;
+    width: 750px;
+    height: 300px;
+    margin: 0 auto;
+    text-align: center;
+    overflow:hidden;
+     background-image: url(../images/bluehills.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+
+
+/*text styling*/
+header{
+    font-family: cursive;
+    margin-top: 5px;
+    letter-spacing: 2em;
+    
+}
+
+
+section{
+    font-family: cursive;
+    line-height: 0.7em;
+    font-variant: small-caps;
+}
+
+footer{
+    margin-top: 2px;
+    font-family: monospace;
+    font-size: 15px;
+    line-height: 1.2em;
+}
+
+
+.intro_2{
+    text-decoration: underline;
+    font-family: "Lucida Handwriting", cursive;
+}
+
+.main_style{
+    font-family: cursive;
+    color: deeppink;
+    
+}
+
+.lnk{
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+

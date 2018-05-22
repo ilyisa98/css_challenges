@@ -1,0 +1,20 @@
+#speech-bubble{
+
+  position: relative;
+  width: 200px;
+  height: 100px;
+  background-color: #5F9EA0;
+  border: 8px solid #5F9EA0;
+  border-radius: 20px;
+  margin-left: 60px;
+}
+#speech-bubble:after {
+  content: ' ';
+  position: absolute;
+  width: 5px;
+  height: 0px;
+  left: -53px;
+  top: 20px;
+  border: 20px solid;
+  border-color:  transparent #5F9EA0 transparent transparent ;
+}

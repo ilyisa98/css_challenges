@@ -1,0 +1,97 @@
+
+h1{
+	font-family: Comic Sans MS, Comic Sans, cursive;
+text-align: center;
+    color:black;
+}
+
+
+.intro{
+	font-family: Cosmic Sans, cursive;
+	font-size: 25px;
+    color:black;
+	text-align: center;
+
+}
+.ul{
+    color: black;
+
+}
+
+/*anchor styling*/
+a:link:visited {
+    color: red;
+}
+
+
+ a:visited {
+    color: green;
+}
+
+
+a:hover {
+    color:firebrick;
+}
+
+
+a:active {
+    color: blue;
+}
+
+/*subscription*/
+.subscribe{
+    color: firebrick;
+}
+
+/*labrl styling*/
+div label{
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+/*placeholder*/
+input::placeholder {
+  color:cornflowerblue;
+}
+/*submit button*/
+.submit{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float:none;
+}
+/*div container*/
+.container{
+    font-display: fallback;
+    font-family: fantasy;
+    color:darkred;
+}
+.container:empty{
+    display: contents: "sdsdsd";
+}
+
+/*sticky footer*/
+.footer{
+  position: fixed;
+  
+    bottom: 0;
+  width: 95%;
+}
+
+
+
+/*background*/
+
+fieldset{
+    background-color: burlywood;
+}
+.background{
+    background-color: burlywood;
+    background-blend-mode: color-burn;
+	background-image: url("images/bullet_1.jpg");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}

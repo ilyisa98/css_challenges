@@ -1,0 +1,98 @@
+/*TYPE SELECTOR*/
+selector {
+  property: value;
+}
+body{
+  background-color: grey;
+}
+h2{
+  color: #E5D4ED;
+}
+h3{
+  color: #514F59;
+}
+h4{
+  color: #ED254E;
+}
+h5{
+  color: #BDC667;
+}
+.a,.f,.k,.q,.v{
+  font-family:monospace;
+}
+.b,.g,.l,.r.w{
+  font-family: sans-serif;
+}
+.c,.h,.m,.s,.x{
+  font-family: inherit;
+}
+.d,.i,.n,.t,.y{
+  font-family: fantasy;
+}
+.e,.j,.o,.u,.z{
+  font-family: cursive;
+}
+/* .f{
+  font-family:monospace;
+} */
+/* .g{
+  font-family: sans-serif;
+} */
+/* .h{
+  font-family: inherit;
+} */
+/* .i{
+  font-family: fantasy;
+} */
+/* .j{
+  font-family: cursive;
+} */
+/* .k{
+  font-family:monospace;
+} */
+/* .l{
+  font-family: sans-serif;
+} */
+/* .m{
+  font-family: inherit;
+} */
+/* .n{
+  font-family: fantasy;
+} */
+/* .o{
+  font-family: cursive;
+} */
+/* .q{
+  font-family:monospace;
+} */
+/* .r{
+  font-family: sans-serif;
+} */
+/* .s{
+  font-family: inherit;
+} */
+/* .t{
+  font-family: fantasy;
+} */
+/* .u{
+  font-family: cursive;
+} */
+/* .v{
+  font-family:monospace;
+} */
+/* .w{
+  font-family: sans-serif;
+} */
+/* .x{
+  font-family: inherit;
+} */
+/* .y{
+  font-family: fantasy;
+} */
+/* .z{
+  font-family: cursive;
+} */
+/*"Impact", Charcoal, sans-serif
+"Comic Sans MS", cursive, sans-serif;
+"Arial Black", Gadget, sans-serif;
+"Times New Roman", Times, serif;*/

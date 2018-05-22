@@ -1,0 +1,52 @@
+/*declaring boxes*/
+.box1,.box2,.box3,.box4{
+  border: 1px solid black;
+  height: 200px;
+  width: 200px;
+  margin-right: 10px;
+  float: left;
+}
+
+.box1{
+  background-color: blue;
+}
+.box2{
+  background-color: green;
+}
+.box3{
+  background-color: yellow;
+}
+.box4{
+  background-color: red;
+}
+
+/*hovering*/
+.box1:hover{
+  background-color: grey;
+}
+.box2:hover{
+  background-color: orange;
+}
+.box3:hover{
+  background-color: pink;
+  width: 600px;
+}
+.box4:hover{
+  background-color: brown;
+  width: 50px;
+}
+
+/*active*/
+
+.box1:active{
+  background-color: purple;
+}
+.box2:active{
+  background-color: #758E4F;
+}
+.box3:active{
+  background-color: #33658A;
+}
+.box4:active{
+  background-color: #F26419;
+}
